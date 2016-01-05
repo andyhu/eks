@@ -55,7 +55,7 @@
       - 舵机
       - 伺服电机
     - Sensor(传感器)
-      - RIP(人体红外)
+      - PIR(人体红外)
       - Temperature(温度)
       - humidity sensor（湿度传感器）
       - geomagnetic sensor（地磁传感器） 
